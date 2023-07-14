@@ -8,7 +8,6 @@ I have more than 1 year experience in Web Development. I had made lots of projec
 
 
 ---
-# Skills
 
 ### Frontend
 
