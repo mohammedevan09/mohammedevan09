@@ -23,6 +23,7 @@ I have more than 1 year experience in Web Development. I had made lots of projec
 
 <br/>
 <br/>
+<br/>
 
 ### Backend
 
@@ -32,6 +33,7 @@ I have more than 1 year experience in Web Development. I had made lots of projec
 <img align="left" alt="Rest API" width="50px" height="50px" style="padding-right:10px;" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" />
 <img align="left" alt="Socket.io" width="150px" height="50px" style="padding-right:10px;" src="https://www.programwitherik.com/content/images/size/w1200/2017/01/socket-e1434850599985-1.png" />
 
+<br/>
 <br/>
 <br/>
 <br/>
