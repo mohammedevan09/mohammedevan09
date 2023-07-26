@@ -7,7 +7,6 @@ Now I'm Looking for an InternShip.
 
 ---
 # SKills
-
 ### Frontend
 
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -18,11 +17,10 @@ Now I'm Looking for an InternShip.
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="SASS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="MUI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img align="left" alt="TailwindCSS" width="50px" style="padding-right:10px; background: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="TailwindCSS" width="50px" style="padding-right:10px; background: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /><br/>
+<p> &nbsp;</p>
 
-<br/>
-<br/>
-<br/>
+
 <br/>
 <br/>
 <br/>
@@ -33,7 +31,7 @@ Now I'm Looking for an InternShip.
 <img align="left" alt="jwt" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png" />
 <img align="left" alt="Socket" width="50px" style="padding-right:10px;" src="https://pbs.twimg.com/profile_images/470682672235151360/vI0ZZlhZ_400x400.png" />
 
-<br/>
+<p> &nbsp;</p>
 <br/>
 <br/>
 <br/>
