@@ -19,10 +19,9 @@ Now I'm Looking for an InternShip.
 <img align="left" alt="MUI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" alt="TailwindCSS" width="50px" style="padding-right:10px; background: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /><br/>
 <p> &nbsp;</p>
+<p> &nbsp;</p>
 
 
-<br/>
-<br/>
 <br/>
 
 ### Backend
