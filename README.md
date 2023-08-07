@@ -9,6 +9,7 @@ Now I'm Looking for an InternShip.
 # SKills
 ### Frontend
 
+<img align="left" alt="Next" width="50px" style="padding-right:10px;" src="https://dinhanhthi.com/img/header/nextjs.png" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -33,6 +34,7 @@ Now I'm Looking for an InternShip.
 <img align="left" alt="Express" width="50px" style="padding-right:10px;" src="https://programador-jr.vercel.app/assets/images/expressjs.png" />
 <img align="left" alt="jwt" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png" />
 <img align="left" alt="Socket" width="50px" style="padding-right:10px;" src="https://pbs.twimg.com/profile_images/470682672235151360/vI0ZZlhZ_400x400.png" />
+<img align="left" alt="Prisma" width="50px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQccPhHuyQtXgA9uaH4kxlkk5tAjteVTTzQuASxy7cTem-g_is8upmDE1gOIvLsZo8DwEo&usqp=CAU" />
 
 <p> &nbsp;</p>
 <br/>
