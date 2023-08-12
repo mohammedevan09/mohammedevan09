@@ -2,7 +2,7 @@
 
 **`Fullstack Developer / Mern Stack Developer`**
 
-Assalamualaikum, Hi everyone This is Mohammed Evan. I'm from Bangladesh. I am a passionate and skilled Full-Stack MERN Web Developer / Programming with 1 year experience With expertise in  JavaScript, TypeScript, Next JS, React JS, MongoDB, Express JS, Node JS, Redux Toolkit, Mongoose, Prisma, Socket.IO, Firebase, JWT Auth, Tailwind, Scss, Material UI, Framer Motion and also many more library's and Frameworks etc dedicated to crafting innovative and immersive web applications. I thrive on creating dynamic user interfaces and robust back-end systems. My commitment to continuous learning and staying updated with the latest technologies ensures that I deliver high-quality, efficient, and user-friendly solutions. Explore my projects to witness my journey of turning ideas into reality.
+Assalamualaikum, Hi everyone This is Mohammed Evan. I'm from Bangladesh. I am a passionate and skilled Full-Stack MERN Web Developer / Programming with 1 year experience With expertise in  JavaScript, TypeScript, Next JS, React JS, MongoDB, Express JS, Node JS, Redux Toolkit, Mongoose, Prisma, Socket.IO, Firebase, JWT Auth, Tailwind, Scss, Material UI, Framer Motion and also many more library's and Frameworks etc dedicated to crafting innovative and immersive web applications.
 
 ---
 # SKills
