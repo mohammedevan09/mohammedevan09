@@ -21,7 +21,7 @@ Assalamualaikum, Hi everyone This is Mohammed Evan. I'm from Bangladesh. I am a 
 <img align="left" alt="SASS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="MUI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" alt="TailwindCSS" width="50px" style="padding-right:10px; background: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="Framer Motion" width="50px" style="padding-right:10px; background: white;" src="https://yourimageshare.com/ib/WypWBK8anz.webp"  />
+
 <p> &nbsp;</p>
 <br/>
 <br/>
