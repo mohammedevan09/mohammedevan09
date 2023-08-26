@@ -8,7 +8,8 @@ Assalamualaikum, Hi everyone This is Mohammed Evan. I'm from Bangladesh. I am a 
 # SKills
 ### Frontend
 
-<img align="left" alt="Next" width="50px" style="padding-right:10px;" src="https://dinhanhthi.com/img/header/nextjs.png" />
+
+<img align="left" alt="Next" width="50px" style="padding-right:10px;" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
